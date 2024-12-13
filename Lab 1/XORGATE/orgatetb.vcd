@@ -1,0 +1,50 @@
+$date
+	Tue Sep 10 20:12:21 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module ORGATE_tb2 $end
+$var wire 1 ! cout $end
+$var reg 1 " ain $end
+$var reg 1 # bin $end
+$scope module or1 $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 ! y $end
+$upscope $end
+$scope module or2 $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var reg 1 $ y $end
+$upscope $end
+$scope module or3 $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 ! y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0$
+0#
+0"
+0!
+$end
+#5
+1$
+1!
+1#
+#10
+0#
+1"
+#15
+1#
+#20
